@@ -1,5 +1,5 @@
 {
-  "name": "yarrvklpqpk.angular",
+  "name": "nbwiyyval.github",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
@@ -7,13 +7,16 @@
     "tslib": "1.10.0",
     "core-js": "2.6.10",
     "zone.js": "0.9.1",
+    "@types/node": "8.9.5",
     "jasmine-core": "2.99.1",
     "@angular/core": "8.2.13",
     "@angular/forms": "8.2.13",
+    "@types/jasmine": "2.8.16",
     "@angular/common": "8.2.13",
     "@angular/router": "8.2.13",
     "jasmine-marbles": "0.6.0",
     "@angular/compiler": "8.2.13",
+    "@types/jasminewd2": "2.0.8",
     "web-animations-js": "2.3.2",
     "@angular/animations": "8.2.13",
     "@angular/platform-browser": "8.2.13",
